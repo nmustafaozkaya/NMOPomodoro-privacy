@@ -1,83 +1,81 @@
-Focusdoro Privacy Policy / Gizlilik Politikası
+# Focusdoro Privacy Policy / Gizlilik Politikası
 
-Son Güncelleme: 09 Haziran 2026
+**Last Updated / Son Güncelleme:** July 26, 2026
 
-English
+---
 
-Focusdoro respects your privacy. This Privacy Policy explains how the application handles information.
+# English
 
-Information We Collect
+## Privacy Policy
 
-Focusdoro does not collect, store, or share any personal information such as:
+Focusdoro respects your privacy. This Privacy Policy explains how the app handles your information.
 
-Name
-Email address
-Phone number
-Location data
-Personal identification information
-Local Data Storage
+### Information We Collect
 
-Focusdoro may store productivity-related data such as completed focus sessions, timer settings, and statistics locally on your device. This data is not sent to any server.
+Focusdoro does not collect personal information such as your name, email address, phone number, or location.
 
-Third-Party Services
+The app stores timer settings, completed focus sessions, and productivity statistics locally on your device.
 
-Focusdoro does not use analytics, advertising, or tracking services.
+### Advertising
 
-Google Privacy Policy:
-https://policies.google.com/privacy
+Focusdoro uses **Google AdMob** to display advertisements. Google and its partners may collect and process certain information, such as device identifiers, IP address, and advertising data, to provide personalized or non-personalized ads in accordance with applicable laws and your consent choices.
 
-Data Security
+For more information, please review:
 
-All data remains on your device and is not shared with third parties.
+* Google Privacy Policy: https://policies.google.com/privacy
+* AdMob Privacy & Messaging: https://support.google.com/admob
 
-Children's Privacy
+### Data Storage
 
-Focusdoro does not knowingly collect data from children under 13.
+Your focus sessions and settings remain stored locally on your device unless otherwise stated.
 
-Changes
+### Children's Privacy
 
-This policy may be updated. Changes will be posted here.
+Focusdoro does not knowingly collect personal information from children under the age of 13.
 
-Contact
+### Changes
 
-Email: nmustafa.ozkaya@gmail.com
+This Privacy Policy may be updated from time to time. Any changes will be published on this page.
 
-Türkçe
+### Contact
 
-Focusdoro kullanıcı gizliliğine önem verir. Bu Gizlilik Politikası uygulamanın verileri nasıl işlediğini açıklar.
+Email: **[nmustafa.ozkaya@gmail.com](mailto:nmustafa.ozkaya@gmail.com)**
 
-Toplanan Bilgiler
+---
 
-Focusdoro aşağıdaki kişisel verileri toplamaz:
+# Türkçe
 
-Ad ve soyad
-E-posta adresi
-Telefon numarası
-Konum bilgisi
-Kimlik bilgileri
-Yerel Veri Saklama
+## Gizlilik Politikası
 
-Focusdoro çalışma oturumları, zamanlayıcı ayarları ve istatistikleri yalnızca cihazda saklayabilir. Bu veriler sunucuya gönderilmez.
+Focusdoro, kullanıcı gizliliğine önem verir. Bu Gizlilik Politikası uygulamanın verileri nasıl işlediğini açıklar.
 
-Üçüncü Taraf Servisler
+### Toplanan Bilgiler
 
-Focusdoro reklam, analiz veya takip hizmeti kullanmaz.
+Focusdoro ad, e-posta adresi, telefon numarası veya konum gibi kişisel bilgileri toplamaz.
 
-Google Gizlilik Politikası:
-https://policies.google.com/privacy
+Zamanlayıcı ayarları, tamamlanan odak seansları ve üretkenlik istatistikleri yalnızca cihazınızda saklanır.
 
-Veri Güvenliği
+### Reklamlar
 
-Tüm veriler cihazda kalır ve paylaşılmaz.
+Focusdoro, reklam göstermek için **Google AdMob** kullanmaktadır. Google ve iş ortakları, yürürlükteki yasalara ve verdiğiniz izinlere bağlı olarak kişiselleştirilmiş veya kişiselleştirilmemiş reklamlar sunabilmek amacıyla cihaz tanımlayıcıları, IP adresi ve reklam verileri gibi bazı bilgileri işleyebilir.
 
-Çocukların Gizliliği
+Daha fazla bilgi için:
 
-Focusdoro 13 yaş altından bilerek veri toplamaz.
+* Google Gizlilik Politikası: https://policies.google.com/privacy
+* Google AdMob Yardım Merkezi: https://support.google.com/admob
 
-Değişiklikler
+### Veri Saklama
 
-Bu politika güncellenebilir. Güncellemeler burada yayınlanır.
+Odak seanslarınız ve uygulama ayarlarınız yalnızca cihazınızda yerel olarak saklanır.
 
-İletişim
+### Çocukların Gizliliği
 
-E-posta: nmustafa.ozkaya@gmail.com
+Focusdoro, 13 yaşın altındaki çocuklardan bilerek kişisel veri toplamaz.
+
+### Değişiklikler
+
+Bu Gizlilik Politikası zaman zaman güncellenebilir. Güncel sürüm bu sayfada yayınlanacaktır.
+
+### İletişim
+
+E-posta: **[nmustafa.ozkaya@gmail.com](mailto:nmustafa.ozkaya@gmail.com)**
